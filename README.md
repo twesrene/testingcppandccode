@@ -6,8 +6,9 @@ Contents:
 2. Testing C++ (Assignments)
 3. Testing functions C
 
-If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program )
-If you dont you can use this link (https://www.programiz.com/cpp-programming/online-compiler/) then delete the code in the left side then copy paste my code, dont forget to run it!
+How to run it:
+1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
+2. If you dont you can use this link (https://www.programiz.com/cpp-programming/online-compiler/) then delete the code in the left side then copy paste my code, dont forget to run it!
 
 
 Apps i used:
