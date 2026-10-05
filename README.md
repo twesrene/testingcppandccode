@@ -32,4 +32,6 @@ Testing functions on C
 <img width="428" height="77" alt="image" src="https://github.com/user-attachments/assets/7acc70ab-4d6b-4c8f-955b-29e76aa69641" />
 
 
+Testing Variable 
 
+<img width="275" height="46" alt="image" src="https://github.com/user-attachments/assets/0e9e2d1e-81bd-4e6a-bda1-a64ff6e6c6b0" />
