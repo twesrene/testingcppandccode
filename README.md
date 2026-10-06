@@ -5,6 +5,7 @@ Contents:
 1. Testing functions on C++
 2. Testing C++ (Assignments)
 3. Testing functions C
+4. ASCII output c++
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -35,3 +36,11 @@ Testing functions on C
 Testing Variable 
 
 <img width="275" height="46" alt="image" src="https://github.com/user-attachments/assets/0e9e2d1e-81bd-4e6a-bda1-a64ff6e6c6b0" />
+
+
+ASCII output c++
+
+<img width="235" height="62" alt="image" src="https://github.com/user-attachments/assets/641fca95-9f4a-4956-ac43-09000d4ef907" />
+
+
+
