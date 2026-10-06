@@ -7,6 +7,6 @@ int main(){
 
     char b;
     b=a;
-    cout <<"its "<<b;
+    cout <<"The translated letter is "<<b;
     return 0;
 }
