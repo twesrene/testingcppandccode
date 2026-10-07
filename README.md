@@ -7,7 +7,8 @@ Contents:
 3. Testing functions C
 4. Variable testing on c++
 5. ASCII output c++
-6. meter and celcius converter
+6. Meter and celcius converter
+7. Mod and div functions
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -48,4 +49,12 @@ ASCII output c++
 Meter and Celcius converter
 
 <img width="389" height="59" alt="image" src="https://github.com/user-attachments/assets/94ebafae-1810-4cbd-9741-a90ef67ae486" />
+
+
+Mod and Div function
+
+<img width="265" height="53" alt="image" src="https://github.com/user-attachments/assets/167e4318-4ae8-43e0-953f-5c3bc6c1dab3" />
+
+
+
 
