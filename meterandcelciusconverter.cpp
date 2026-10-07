@@ -5,7 +5,7 @@ int main(){
     //this is the meter converter
     int meter;
 
-    cout<<"please give meters ";
+    cout<<"How many meters are you converting? ";
     cin>>meter;
 
     float inch = meter/0.0254 ;
@@ -16,7 +16,7 @@ int main(){
 
     //this is the celcius converter
     int celcius;
-    cout << "Enter temperature in degree celcius: ";
+    cout << "Enter your temperature in degree celcius: ";
     cin>>celcius;
 
     float far= (9.0/5.0)*celcius +32;
