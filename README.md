@@ -9,6 +9,7 @@ Contents:
 5. ASCII output c++
 6. Meter and celcius converter
 7. Mod and div functions
+8. Looping multiply
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -56,5 +57,8 @@ Mod and Div function
 <img width="265" height="53" alt="image" src="https://github.com/user-attachments/assets/167e4318-4ae8-43e0-953f-5c3bc6c1dab3" />
 
 
+Multiply looping
+
+<img width="164" height="116" alt="image" src="https://github.com/user-attachments/assets/6170f1f8-92c8-4942-aa48-192512bf92ac" />
 
 
