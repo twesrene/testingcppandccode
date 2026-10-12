@@ -10,6 +10,7 @@ Contents:
 6. Meter and celcius converter
 7. Mod and div functions
 8. Looping multiply
+9. If else
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -62,3 +63,6 @@ Multiply looping
 <img width="164" height="116" alt="image" src="https://github.com/user-attachments/assets/6170f1f8-92c8-4942-aa48-192512bf92ac" />
 
 
+If else
+
+<img width="368" height="62" alt="image" src="https://github.com/user-attachments/assets/fdfaeba5-1519-434b-ae59-a70811936438" />
