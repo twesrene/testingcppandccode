@@ -64,6 +64,12 @@ Multiply looping
 <img width="164" height="116" alt="image" src="https://github.com/user-attachments/assets/6170f1f8-92c8-4942-aa48-192512bf92ac" />
 
 
-If else
+If else C++
 
 <img width="368" height="62" alt="image" src="https://github.com/user-attachments/assets/fdfaeba5-1519-434b-ae59-a70811936438" />
+
+
+For loop c++
+
+<img width="257" height="188" alt="image" src="https://github.com/user-attachments/assets/0099a24a-ebed-4374-ab94-4fdf4417248d" />
+
