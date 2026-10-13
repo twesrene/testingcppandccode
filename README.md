@@ -10,7 +10,8 @@ Contents:
 6. Meter and celcius converter
 7. Mod and div functions
 8. Looping multiply
-9. If else
+9. If else in c++
+10. For loop
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
