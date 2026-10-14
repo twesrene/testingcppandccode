@@ -73,3 +73,7 @@ For loop c++
 
 <img width="257" height="188" alt="image" src="https://github.com/user-attachments/assets/0099a24a-ebed-4374-ab94-4fdf4417248d" />
 
+
+while(x)
+
+<img width="387" height="154" alt="image" src="https://github.com/user-attachments/assets/15e7583e-c3fa-4233-bb59-3e382957cf81" />
