@@ -12,6 +12,7 @@ Contents:
 8. Looping multiply
 9. If else in c++
 10. For loop
+11. while true
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -77,3 +78,9 @@ For loop c++
 while(x)
 
 <img width="387" height="154" alt="image" src="https://github.com/user-attachments/assets/15e7583e-c3fa-4233-bb59-3e382957cf81" />
+
+
+while true
+
+<img width="397" height="295" alt="image" src="https://github.com/user-attachments/assets/bab2a374-6353-4363-91ba-dbaa3722a0d3" />
+
