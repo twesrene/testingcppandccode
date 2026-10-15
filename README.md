@@ -75,12 +75,12 @@ For loop c++
 <img width="257" height="188" alt="image" src="https://github.com/user-attachments/assets/0099a24a-ebed-4374-ab94-4fdf4417248d" />
 
 
-while(x)
+While(x)
 
 <img width="387" height="154" alt="image" src="https://github.com/user-attachments/assets/15e7583e-c3fa-4233-bb59-3e382957cf81" />
 
 
-while true
+While true
 
 <img width="397" height="295" alt="image" src="https://github.com/user-attachments/assets/bab2a374-6353-4363-91ba-dbaa3722a0d3" />
 
