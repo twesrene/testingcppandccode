@@ -14,6 +14,7 @@ Contents:
 10. For loop
 11. While (x)
 12. While True
+13. Assignment average
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -84,4 +85,9 @@ While(x)
 While true
 
 <img width="397" height="295" alt="image" src="https://github.com/user-attachments/assets/bab2a374-6353-4363-91ba-dbaa3722a0d3" />
+
+
+Assignment average
+
+<img width="381" height="540" alt="image" src="https://github.com/user-attachments/assets/019411a2-02a8-4c21-a5d5-d70298bc3aaa" />
 
