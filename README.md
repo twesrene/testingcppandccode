@@ -101,3 +101,4 @@ Area Rectangle and Circle
 
 Switch case
 
+<img width="401" height="175" alt="image" src="https://github.com/user-attachments/assets/60267f34-966f-496b-aaa0-97d5858c2a62" />
