@@ -17,6 +17,7 @@ Contents:
 13. Assignment average
 14. Area Circle and rectangle
 15. Switch case
+16. While break
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -102,3 +103,8 @@ Area Rectangle and Circle
 Switch case
 
 <img width="401" height="175" alt="image" src="https://github.com/user-attachments/assets/60267f34-966f-496b-aaa0-97d5858c2a62" />
+
+
+While break
+
+<img width="337" height="197" alt="image" src="https://github.com/user-attachments/assets/b1003735-d41a-4e98-b838-121ab1f4719f" />
