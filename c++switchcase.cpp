@@ -30,7 +30,8 @@ int main() {
                 break;
 
             default:
-                cout << "Choice not available" << endl << endl;
+                cout << "Choice not available";
+                i=6;
                 break;
         }
     }
