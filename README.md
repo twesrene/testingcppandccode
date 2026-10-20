@@ -18,6 +18,7 @@ Contents:
 14. Area Circle and rectangle
 15. Switch case
 16. While break
+17. While true and if
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -108,3 +109,8 @@ Switch case
 While break
 
 <img width="337" height="197" alt="image" src="https://github.com/user-attachments/assets/b1003735-d41a-4e98-b838-121ab1f4719f" />
+
+
+While true and if
+
+<img width="429" height="188" alt="image" src="https://github.com/user-attachments/assets/d3cf91a7-f284-4b38-8cf5-afd51a38a2d7" />
