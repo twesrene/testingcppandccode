@@ -1,0 +1,39 @@
+#include<iostream>
+#include<iomanip>
+using namespace std;
+int main(){
+    float x = 0.0;
+    int choice=1;
+    cout<<fixed<<setprecision(2);
+
+    while(true){
+        cout<<"Enter product number(-1 to check out): ";
+        cin>> choice;
+
+        if(choice == -1)
+            break;
+
+        switch(choice){
+        case 1:
+            x = x + 2.9;
+            break;
+        case 2:
+            x= x+6.4;
+            break;
+        case 3:
+            x=x+5.0;
+            break;
+        case 4:
+            x=x+6.9;
+            break;
+        default:
+            cout<<"Invalid product number."<<endl;
+            continue;
+        }
+        cout<<"Total purchase: $"<<x<<endl;
+
+    }
+    cout<<"Final purchase: $"<<x<<endl;
+
+    return 0;
+}
