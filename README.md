@@ -20,6 +20,7 @@ Contents:
 16. While break
 17. While true and if
 18. Arithmatic
+19. Shoppingswitch
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -116,6 +117,12 @@ While true and if
 
 <img width="429" height="188" alt="image" src="https://github.com/user-attachments/assets/d3cf91a7-f284-4b38-8cf5-afd51a38a2d7" />
 
+
 Arithmatic
 
 <img width="382" height="155" alt="image" src="https://github.com/user-attachments/assets/1f7c01ed-a778-41bc-9dcc-8027687c4d10" />
+
+
+Shopping switch
+
+<img width="384" height="221" alt="image" src="https://github.com/user-attachments/assets/6e3865f9-4ffc-4845-a32e-7a4b1323afe5" />
