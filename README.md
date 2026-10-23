@@ -21,6 +21,7 @@ Contents:
 17. While true and if
 18. Arithmatic
 19. Shoppingswitch
+20. Prime numbers
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -126,3 +127,9 @@ Arithmatic
 Shopping switch
 
 <img width="384" height="221" alt="image" src="https://github.com/user-attachments/assets/6e3865f9-4ffc-4845-a32e-7a4b1323afe5" />
+
+
+Prime numbers
+
+<img width="352" height="80" alt="image" src="https://github.com/user-attachments/assets/50603d88-21cf-4179-8845-9f5ee53e47d7" />
+
