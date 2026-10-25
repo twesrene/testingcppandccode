@@ -22,6 +22,7 @@ Contents:
 18. Arithmatic
 19. Shoppingswitch
 20. Prime numbers
+21. Square stars
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -133,3 +134,7 @@ Prime numbers
 
 <img width="352" height="80" alt="image" src="https://github.com/user-attachments/assets/50603d88-21cf-4179-8845-9f5ee53e47d7" />
 
+
+Square stars
+
+<img width="445" height="184" alt="image" src="https://github.com/user-attachments/assets/175854d8-3eee-45ab-afa6-98e707e97d10" />
