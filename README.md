@@ -23,6 +23,7 @@ Contents:
 19. Shoppingswitch
 20. Prime numbers
 21. Square stars
+22. Array largest smallest
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -138,3 +139,9 @@ Prime numbers
 Square stars
 
 <img width="445" height="184" alt="image" src="https://github.com/user-attachments/assets/175854d8-3eee-45ab-afa6-98e707e97d10" />
+
+
+Array 
+
+<img width="447" height="160" alt="image" src="https://github.com/user-attachments/assets/11ea7c54-4f4a-4c23-b494-efb4c46944cd" />
+
