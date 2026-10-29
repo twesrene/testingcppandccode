@@ -25,6 +25,7 @@ Contents:
 21. Square stars
 22. Array largest smallest
 23. Histogram
+24. Character array
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -150,3 +151,8 @@ Array
 Histogram
 
 <img width="413" height="238" alt="image" src="https://github.com/user-attachments/assets/335f067d-acd5-495f-beca-bf56eb641c9b" />
+
+
+Character array
+
+<img width="416" height="164" alt="image" src="https://github.com/user-attachments/assets/50d20d12-b2f4-41cc-b346-624cfe02bbaa" />
