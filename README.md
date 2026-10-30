@@ -26,6 +26,7 @@ Contents:
 22. Array largest smallest
 23. Histogram
 24. Character array
+25. Found Element
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -156,3 +157,9 @@ Histogram
 Character array
 
 <img width="416" height="164" alt="image" src="https://github.com/user-attachments/assets/50d20d12-b2f4-41cc-b346-624cfe02bbaa" />
+
+
+Found Element
+
+<img width="487" height="86" alt="image" src="https://github.com/user-attachments/assets/f2f3e1ba-3843-4d2e-8c0b-6006b7eb0259" />
+
