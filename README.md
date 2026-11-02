@@ -28,6 +28,7 @@ Contents:
 24. Character array
 25. Found Element
 26. Mark array
+27. Frequency array
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -168,3 +169,8 @@ Found Element
 Mark Array
 
 <img width="385" height="179" alt="image" src="https://github.com/user-attachments/assets/be0f2495-da88-4858-a1dc-0a2986a3388c" />
+
+
+Frequency array
+
+<img width="385" height="296" alt="image" src="https://github.com/user-attachments/assets/0f111448-db6c-4b85-a35e-15c0aac73e23" />
