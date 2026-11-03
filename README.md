@@ -29,6 +29,7 @@ Contents:
 25. Found Element
 26. Mark array
 27. Frequency array
+28. Op file (There is a txt file for this called "op.txt"
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -174,3 +175,9 @@ Mark Array
 Frequency array
 
 <img width="385" height="296" alt="image" src="https://github.com/user-attachments/assets/0f111448-db6c-4b85-a35e-15c0aac73e23" />
+
+
+Op file
+
+<img width="134" height="166" alt="image" src="https://github.com/user-attachments/assets/e53611a2-dc4b-4604-9856-73282954fe03" />
+
