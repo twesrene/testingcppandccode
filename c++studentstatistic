@@ -1,0 +1,38 @@
+#include<iostream>
+#include<fstream>
+using namespace std;
+int main(){
+    int low=100,high=0,score,sum=0,total=0;
+    float average;
+    ifstream fin;
+    ofstream fout;
+
+    fin.open("statistic.txt");
+    fout.open("studentstatistic.txt");
+
+    if(fin){
+        cout<<"Reading file..."<<endl;
+        while(fin>>score){
+            cout<<score<<" ";
+
+            if(high<score){
+                high = score;
+            }
+            if(low>score){
+                low = score;
+            }
+
+            sum +=score;
+            total++;
+        }
+        fin.close();
+    }
+    if(fout){
+        fout<<"The highest mark is: "<<high<<endl;
+        fout<<"The lowest mark is: "<<low<<endl;
+        average=(float)sum/total;
+        fout<<"The average is: "<<average;
+
+        fout.close();
+    }
+}
