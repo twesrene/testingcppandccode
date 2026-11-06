@@ -1,0 +1,21 @@
+#include<iostream>
+#include<fstream>
+using namespace std;
+int main(){
+    int id,bal;
+    string name;
+    ofstream fout;
+
+    fout.open("customer.txt");
+
+    cout<<"Enter the account number, customer's name and balance.\nEnter EOF to end input."<<endl;
+    cout<<"? ";
+    if(fout){
+        while(cin>>id>>name>>bal){
+            cout<<"? ";
+            fout<<id<<" "<<name<<" "<<bal<<endl;
+        }
+        fout.close();
+    }
+    return 0;
+}
