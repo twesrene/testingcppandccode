@@ -31,6 +31,7 @@ Contents:
 27. Frequency array
 28. Op file (There is a txt file for this called "op.txt")
 29. Reading statistic file
+30. customer id file
     
 
 How to run it:
@@ -188,3 +189,7 @@ Student statistic reading file
 
 <img width="455" height="291" alt="image" src="https://github.com/user-attachments/assets/a618484b-4111-4147-98e3-5cc8bf136499" />
 
+
+Customer id file
+
+<img width="458" height="248" alt="image" src="https://github.com/user-attachments/assets/faa9c62e-6d6b-465b-bf0e-13e2d8334550" />
