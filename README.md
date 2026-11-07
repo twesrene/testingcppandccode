@@ -193,3 +193,9 @@ Student statistic reading file
 Customer id file
 
 <img width="458" height="248" alt="image" src="https://github.com/user-attachments/assets/faa9c62e-6d6b-465b-bf0e-13e2d8334550" />
+
+
+Upper and lower case file
+
+<img width="440" height="246" alt="image" src="https://github.com/user-attachments/assets/4ebcf2e9-7591-44b1-8597-45a9d1c6030e" />
+
