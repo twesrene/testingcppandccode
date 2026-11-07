@@ -10,7 +10,7 @@ Contents:
 6. Meter and celcius converter
 7. Mod and div functions
 8. Looping multiply
-9. If else in c++
+9. If else cpp
 10. For loop
 11. While (x)
 12. While True
@@ -32,6 +32,7 @@ Contents:
 28. Op file (There is a txt file for this called "op.txt")
 29. Reading statistic file
 30. customer id file
+31. Upper and Lower file
     
 
 How to run it:
