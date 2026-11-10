@@ -33,6 +33,7 @@ Contents:
 29. Reading statistic file
 30. customer id file
 31. Upper and Lower file
+32. Pointer int
     
 
 How to run it:
@@ -204,3 +205,7 @@ Upper and lower case file
 
 <img width="440" height="246" alt="image" src="https://github.com/user-attachments/assets/4ebcf2e9-7591-44b1-8597-45a9d1c6030e" />
 
+
+Pointer Int
+
+<img width="415" height="185" alt="image" src="https://github.com/user-attachments/assets/67678138-589f-4150-b102-e1ce0f4cd0d6" />
