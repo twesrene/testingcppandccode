@@ -34,6 +34,7 @@ Contents:
 30. customer id file
 31. Upper and Lower file
 32. Pointer int
+33. Pointer large and small
     
 
 How to run it:
@@ -209,3 +210,9 @@ Upper and lower case file
 Pointer Int
 
 <img width="415" height="185" alt="image" src="https://github.com/user-attachments/assets/67678138-589f-4150-b102-e1ce0f4cd0d6" />
+
+
+Pointer Large and small
+
+<img width="190" height="141" alt="image" src="https://github.com/user-attachments/assets/90751cab-832f-450c-bd43-6df738722ae0" />
+
