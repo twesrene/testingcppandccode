@@ -35,6 +35,7 @@ Contents:
 31. Upper and Lower file
 32. Pointer int
 33. Pointer large and small
+34. Pointer sentences
     
 
 How to run it:
@@ -216,3 +217,7 @@ Pointer Large and small
 
 <img width="190" height="141" alt="image" src="https://github.com/user-attachments/assets/90751cab-832f-450c-bd43-6df738722ae0" />
 
+
+Pointer sentences
+
+<img width="379" height="98" alt="image" src="https://github.com/user-attachments/assets/1c72fe6e-5830-4fd7-8c1d-aca2983334b5" />
