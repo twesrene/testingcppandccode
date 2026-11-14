@@ -36,6 +36,7 @@ Contents:
 32. Pointer int
 33. Pointer large and small
 34. Pointer sentences
+35. Letter count
     
 
 How to run it:
@@ -221,3 +222,9 @@ Pointer Large and small
 Pointer sentences
 
 <img width="379" height="98" alt="image" src="https://github.com/user-attachments/assets/1c72fe6e-5830-4fd7-8c1d-aca2983334b5" />
+
+
+Letter Count
+
+<img width="611" height="328" alt="image" src="https://github.com/user-attachments/assets/ff896c7c-4ffc-4c36-bb5d-753e2ddd8d03" />
+
