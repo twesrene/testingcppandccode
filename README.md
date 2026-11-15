@@ -37,7 +37,7 @@ Contents:
 33. Pointer large and small
 34. Pointer sentences
 35. Letter count
-36. Us$ count
+36. US$ count
     
 
 How to run it:
