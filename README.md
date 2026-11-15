@@ -37,6 +37,7 @@ Contents:
 33. Pointer large and small
 34. Pointer sentences
 35. Letter count
+36. Us$ count
     
 
 How to run it:
@@ -227,4 +228,9 @@ Pointer sentences
 Letter Count
 
 <img width="611" height="328" alt="image" src="https://github.com/user-attachments/assets/ff896c7c-4ffc-4c36-bb5d-753e2ddd8d03" />
+
+
+Us$ count
+
+<img width="373" height="143" alt="image" src="https://github.com/user-attachments/assets/fece6a5f-a5fd-477a-944e-796a1d0aad39" />
 
