@@ -230,7 +230,7 @@ Letter Count
 <img width="611" height="328" alt="image" src="https://github.com/user-attachments/assets/ff896c7c-4ffc-4c36-bb5d-753e2ddd8d03" />
 
 
-Us$ count
+US$ count
 
 <img width="373" height="143" alt="image" src="https://github.com/user-attachments/assets/fece6a5f-a5fd-477a-944e-796a1d0aad39" />
 
