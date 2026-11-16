@@ -38,6 +38,7 @@ Contents:
 34. Pointer sentences
 35. Letter count
 36. US$ count
+37. Function sum
     
 
 How to run it:
@@ -234,3 +235,7 @@ US$ count
 
 <img width="373" height="143" alt="image" src="https://github.com/user-attachments/assets/fece6a5f-a5fd-477a-944e-796a1d0aad39" />
 
+
+Function sum
+
+<img width="376" height="155" alt="image" src="https://github.com/user-attachments/assets/6ad67072-6909-42c8-abe1-a1327b7d7f6c" />
