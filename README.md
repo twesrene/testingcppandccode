@@ -39,6 +39,7 @@ Contents:
 35. Letter count
 36. US$ count
 37. Function sum
+38. Function array
     
 
 How to run it:
@@ -239,3 +240,9 @@ US$ count
 Function sum
 
 <img width="376" height="155" alt="image" src="https://github.com/user-attachments/assets/6ad67072-6909-42c8-abe1-a1327b7d7f6c" />
+
+
+Function Array
+
+<img width="370" height="329" alt="image" src="https://github.com/user-attachments/assets/1dd64538-e772-4aeb-9fee-80dbacf1ba64" />
+
