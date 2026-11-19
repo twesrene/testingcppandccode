@@ -40,6 +40,7 @@ Contents:
 36. US$ count
 37. Function sum
 38. Function array
+39. Function odd and even
     
 
 How to run it:
