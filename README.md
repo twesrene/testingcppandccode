@@ -248,7 +248,8 @@ Function Array
 <img width="370" height="329" alt="image" src="https://github.com/user-attachments/assets/1dd64538-e772-4aeb-9fee-80dbacf1ba64" />
 
 
-Function odd and even
+Function largest smallest
 
-<img width="251" height="164" alt="image" src="https://github.com/user-attachments/assets/97bb27c0-da58-4075-ba6c-069dc0d622b6" />
+<img width="373" height="162" alt="image" src="https://github.com/user-attachments/assets/a579e6c7-b0f2-4a82-8f6e-01d9d8132501" />
+
 
