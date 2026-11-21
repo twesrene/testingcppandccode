@@ -41,6 +41,7 @@ Contents:
 37. Function sum
 38. Function array
 39. Function odd and even
+40. Function convert temperature
     
 
 How to run it:
@@ -253,3 +254,6 @@ Function largest smallest
 <img width="373" height="162" alt="image" src="https://github.com/user-attachments/assets/a579e6c7-b0f2-4a82-8f6e-01d9d8132501" />
 
 
+Function Convert Temperature
+
+<img width="388" height="188" alt="image" src="https://github.com/user-attachments/assets/b6721a57-2eef-4a3d-a522-747510b50f44" />
