@@ -42,7 +42,7 @@ Contents:
 38. Function array
 39. Function odd and even
 40. Function convert temperature
-41. FUnction sum
+41. Function sum
     
 
 How to run it:
