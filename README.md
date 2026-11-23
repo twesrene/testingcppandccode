@@ -42,8 +42,7 @@ Contents:
 38. Function array
 39. Function odd and even
 40. Function convert temperature
-41. Function sum
-    
+
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -260,6 +259,3 @@ Function Convert Temperature
 <img width="388" height="188" alt="image" src="https://github.com/user-attachments/assets/b6721a57-2eef-4a3d-a522-747510b50f44" />
 
 
-Function Sum
-
-<img width="396" height="217" alt="image" src="https://github.com/user-attachments/assets/e4263b4d-199f-40e6-a6dd-a69fdeb7c5be" />
