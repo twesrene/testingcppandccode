@@ -42,6 +42,7 @@ Contents:
 38. Function array
 39. Function odd and even
 40. Function convert temperature
+41. Sum factorial
 
 
 How to run it:
@@ -259,3 +260,6 @@ Function Convert Temperature
 <img width="388" height="188" alt="image" src="https://github.com/user-attachments/assets/b6721a57-2eef-4a3d-a522-747510b50f44" />
 
 
+Sum factorial
+
+<img width="309" height="117" alt="image" src="https://github.com/user-attachments/assets/b6f9fc5c-0076-46d6-b069-6faa35b6cb65" />
