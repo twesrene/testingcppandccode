@@ -43,6 +43,7 @@ Contents:
 39. Function odd and even
 40. Function convert temperature
 41. Sum factorial
+42. toupper Function
 
 
 How to run it:
@@ -263,3 +264,8 @@ Function Convert Temperature
 Sum factorial
 
 <img width="309" height="117" alt="image" src="https://github.com/user-attachments/assets/b6f9fc5c-0076-46d6-b069-6faa35b6cb65" />
+
+
+toupper Function
+
+<img width="381" height="101" alt="image" src="https://github.com/user-attachments/assets/248cc180-9c6c-4221-88c7-4ceb7ffd8162" />
