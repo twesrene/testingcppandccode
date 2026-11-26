@@ -44,6 +44,7 @@ Contents:
 40. Function convert temperature
 41. Sum factorial
 42. toupper Function
+43. Guess number
 
 
 How to run it:
@@ -269,3 +270,9 @@ Sum factorial
 toupper Function
 
 <img width="381" height="101" alt="image" src="https://github.com/user-attachments/assets/248cc180-9c6c-4221-88c7-4ceb7ffd8162" />
+
+
+Guess number
+
+<img width="511" height="379" alt="image" src="https://github.com/user-attachments/assets/bf9183e8-a80b-4ec8-8e90-19f99bec685a" />
+
