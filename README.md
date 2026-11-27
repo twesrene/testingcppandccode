@@ -45,6 +45,7 @@ Contents:
 41. Sum factorial
 42. toupper Function
 43. Guess number
+44. Convert string
 
 
 How to run it:
@@ -275,4 +276,10 @@ toupper Function
 Guess number
 
 <img width="511" height="379" alt="image" src="https://github.com/user-attachments/assets/bf9183e8-a80b-4ec8-8e90-19f99bec685a" />
+
+
+Convert String
+
+<img width="850" height="177" alt="image" src="https://github.com/user-attachments/assets/ca5be029-131b-4c03-a09c-2961c9d97840" />
+
 
