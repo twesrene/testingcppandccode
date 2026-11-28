@@ -46,7 +46,7 @@ Contents:
 42. toupper Function
 43. Guess number
 44. Convert string
-
+45. Woed count
 
 How to run it:
 1. If you have CodeBlocks / Dev C++ you can just copy the code and run it normally ( Remember to set to corresponding program .cpp for c++ and .c for c)
@@ -283,3 +283,6 @@ Convert String
 <img width="850" height="177" alt="image" src="https://github.com/user-attachments/assets/ca5be029-131b-4c03-a09c-2961c9d97840" />
 
 
+Word Count
+
+<img width="399" height="266" alt="image" src="https://github.com/user-attachments/assets/a0ff9ca7-9af5-4e33-8d45-8dfd3190bf72" />
